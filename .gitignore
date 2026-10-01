@@ -1,0 +1,3 @@
+.venv/
+__pycache__/
+parking_history.csv
